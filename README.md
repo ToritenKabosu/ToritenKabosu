@@ -10,3 +10,5 @@ Among UsのMod。<br>
 [TOH-F Wiki](https://github.com/ToritenKabosu/TownOfHost-Fun/wiki/)<br>
 ## できること
 [![My Skills](https://skillicons.dev/icons?i=cs&perline=15)](https://skillicons.dev)
+## 勉強中のもの
+[![Studying now](https://skillicons.dev/icons?i=ts&perline=15)](https://skillicons.dev)
