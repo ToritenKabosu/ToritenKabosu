@@ -3,7 +3,7 @@
 Among Usしてます。<br>
 バニラ部屋にいる時はとり天、Mod部屋にいる時はかぼすって呼んでね<br>
 ## 開発してるもの
-### [TownOfHost-Fun](https://github.com/ToritenKabosu/ToritenKabosu/TownOfHost-Fun/)
+### [TownOfHost-Fun](https://github.com/ToritenKabosu/TownOfHost-Fun/)
 Among UsのMod。<br>
 [TownOfHost-K](https://github.com/KYMario/TownOfHost-K)の派生で、機能や役職を追加しています。<br>
 現在Modは非公開ですが、Wikiは公開してます。<br>
