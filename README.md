@@ -2,7 +2,7 @@
 とり天/かぼすです。<br>
 Among Usしてます。<br>
 バニラ部屋にいる時はとり天、Mod部屋にいる時はかぼすって呼んでね<br>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ToritenKabosu&theme=github-light&cache_seconds=1800)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ToritenKabosu)
 ## 開発してるもの
 ### [TownOfHost-Fun](https://github.com/ToritenKabosu/TownOfHost-Fun/)
 Among UsのMod。<br>
