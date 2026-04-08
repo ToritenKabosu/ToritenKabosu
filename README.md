@@ -2,7 +2,6 @@
 とり天/かぼすです。<br>
 Among Usしてます。<br>
 バニラ部屋にいる時はとり天、Mod部屋にいる時はかぼすって呼んでね<br>
-![GitHub Streak](https://streak-stats.demolab.com?user=ToritenKabosu&theme=default)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ToritenKabosu&theme=github-light&cache_seconds=1800)
 ## 開発してるもの
 ### [TownOfHost-Fun](https://github.com/ToritenKabosu/TownOfHost-Fun/)
