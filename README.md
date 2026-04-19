@@ -1,6 +1,6 @@
 # とり天/かぼす
 とり天/かぼすです。<br>
-Among Usしてます。<br>
+Among Usが好きです。<br>
 バニラ部屋にいる時はとり天、Mod部屋にいる時はかぼすって呼んでね<br>
 <picture>
   <source
