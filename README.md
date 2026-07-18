@@ -22,16 +22,18 @@ Among UsのMod。<br>
 <a href="https://github.com/ToritenKabosu/TownOfHost-Fun/wiki/">TOH-F Wiki</a>
 </p>
 
-<h2>できること</h2>
+<h2>使えるもの</h2>
 <p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cs&perline=15" alt="My Skills">
 </a>
 </p>
 
-<h2>勉強中のもの</h2>
+<h2>だいたい使えるもの</h2>
 <p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts&perline=15" alt="Studying now">
 </a>
 </p>
+
+<h2>勉強中のもの</h2>
