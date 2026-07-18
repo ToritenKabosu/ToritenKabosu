@@ -41,5 +41,3 @@ Among UsのMod。<br>
 
 <h2>SNS</h2>
 Discord: <code>@toritenkabosu</code><br>
-Youtube: https://youtube.com/@ToritenAndKabosu<br>
-X: <code>@toritenkabosuAU</code><br>
