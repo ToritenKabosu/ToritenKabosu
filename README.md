@@ -40,6 +40,6 @@ Among UsのMod。<br>
 <h3>勉強中のもの</h3>
 
 <h2>SNS</h2>
-Discord: `@toritenkabosu`
-Youtube: https://youtube.com/@ToritenAndKabosu
-X: `toritenkabosuAU`
+Discord: `@toritenkabosu`<br>
+Youtube: https://youtube.com/@ToritenAndKabosu<br>
+X: `toritenkabosuAU`<br>
