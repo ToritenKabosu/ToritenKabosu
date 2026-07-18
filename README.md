@@ -12,7 +12,7 @@ Among Usが好きなとり天とかぼすです。<br>
   />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToritenKabosu&theme=github-light&hide_border=true&area=true" />
 </picture>
-<h2>開発してるもの</h2>
+<h2>開発しているもの</h2>
 
 <h3><a href="https://github.com/ToritenKabosu/TownOfHost-Fun/">TownOfHost-Fun</a></h3>
 <p>
@@ -22,18 +22,24 @@ Among UsのMod。<br>
 <a href="https://github.com/ToritenKabosu/TownOfHost-Fun/wiki/">TOH-F Wiki</a>
 </p>
 
-<h2>使えるもの</h2>
+<h2>スキル</h2>
+<h3>使えるもの</h3>
 <p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cs&perline=15" alt="My Skills">
 </a>
 </p>
 
-<h2>だいたい使えるもの</h2>
+<h3>ある程度使えるもの</h3>
 <p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts&perline=15" alt="Studying now">
 </a>
 </p>
 
-<h2>勉強中のもの</h2>
+<h3>勉強中のもの</h3>
+
+<h2>SNS</h2>
+Discord: `@toritenkabosu`
+Youtube: https://youtube.com/@ToritenAndKabosu
+X: `toritenkabosuAU`
