@@ -1,6 +1,9 @@
 # とり天/かぼす
-Among Usが好きなとり天とかぼすです。<br>
-バニラ部屋にいる時はとり天、Mod部屋にいる時はかぼすって呼んでね<br>
+とり天/かぼすといいます。
+Among Usが好きで、それ用のModも作っています。<br>
+また、最近はAI関連にも関心があります。<br>
+<!--サービス側が停止してるっぽいので無効化-->
+<!--
 <picture>
   <source
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=ToritenKabosu&theme=react-dark&hide_border=true&area=true"
@@ -12,14 +15,13 @@ Among Usが好きなとり天とかぼすです。<br>
   />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToritenKabosu&theme=github-light&hide_border=true&area=true" />
 </picture>
-<h2>開発しているもの</h2>
-
+-->
+<h2>開発中のプロジェクト</h2>
 <h3><a href="https://github.com/ToritenKabosu/TownOfHost-Fun/">TownOfHost-Fun</a></h3>
 <p>
-Among UsのMod。<br>
-<a href="https://github.com/KYMario/TownOfHost-K">TownOfHost-K</a>の派生で、機能や役職を追加しています。<br>
-現在ソースコードやdllは非公開ですが、Wikiは公開してます。<br>
-<a href="https://github.com/ToritenKabosu/TownOfHost-Fun/wiki/">TOH-F Wiki</a>
+Among Us向けに制作している自作Modです。<br>
+<a href="https://github.com/KYMario/TownOfHost-K">TownOfHost-K</a>の派生版で、新しい機能や役職を追加しています。<br>
+現時点ではソースコードやdllは非公開ですが、<a href="https://github.com/ToritenKabosu/TownOfHost-Fun/wiki/">Wiki</a>は公開しています。<br>
 </p>
 
 <h2>スキル</h2>
@@ -38,6 +40,6 @@ Among UsのMod。<br>
 </p>
 
 <h3>勉強中のもの</h3>
-
+なし
 <h2>SNS</h2>
 Discord: <code>@toritenkabosu</code><br>
